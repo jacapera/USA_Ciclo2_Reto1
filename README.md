@@ -1,7 +1,8 @@
 # MinTic Universidad Sergio Arboleda Ciclo2
 ## USA_Ciclo2_Reto1
 
-#Índice de masa corporal (IMC)
+Índice de masa corporal (IMC)
+
 Andrés, un estudiante de primer semestre de Medicina quiere calcular el nivel de riesgo que tiene sus familiares de sufrir problemas del corazón. Una persona puede estar en riesgo de sufrir estas enfermedades dependiendo de su edad y su índice de masa corporal (IMC).
 
 <table>
